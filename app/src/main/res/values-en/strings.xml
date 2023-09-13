@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="salam">Hello, %1$s</string>
+
+    <string name="username">Username</string>
+    <string name="desc">Description :</string>
+    <string name="desc_content">Description</string>
+
+    <string name="message_btn">Continue</string>
+    <string name="toast_error">An error occurred, please try again later</string>
+
+    //register
+    <string name="question_login">Already have an account ?</string>
+    <string name="toast_regist">Email already used</string>
+    <string name="message_regist">The account is ready, you can login now.</string>
+
+    //login
+    <string name="greet_welcome">Welcome users</string>
+    <string name="question_signup">Dont have an account yet ?</string>
+    <string name="message_login">Happy using.</string>
+    <string name="toast_not">Account not found</string>
+
+    //custom_email
+    <string name="message_mail">Enter a valid Email</string>
+
+    //custom_pass
+    <string name="message_pass">Password minimum 6 characters</string>
+
+    //button
+    <string name="sign_up">Register</string>
+    <string name="log_in">Login</string>
+    <string name="check_login">Keep me Login</string>
+    <string name="exit">Exit App</string>
+    <string name="language">Change language</string>
+
+    <string name="sample_list">Sample list</string>
+    <string name="sample_regist">Sample regist</string>
+    <string name="sample_login">Sample login</string>
+    <string name="sample_add">Sample add</string>
+    <string name="sample_detail">Sample detail</string>
+    <string name="cam">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="permission">Can\'t get permission.</string>
+    <string name="choose">Choose a Picture</string>
+    <string name="validUpl">Stories to upload</string>
+    <string name="inputImg">Insert Image.</string>
+    <string name="inputDesc">Insert Description.</string>
+    <string name="failUpl">Failed to Upload</string>
+    <string name="dialEx">Do you want to exit app ?</string>
+    <string name="respY">Yes</string>
+    <string name="respT">No</string>
+    <string name="maps">Nearby User</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="style">Syle parsing failed.</string>
+    <string name="error_style">Can\'t find style, Error: </string>
+    <string name="timeout">Timeout</string>
+    <string name="retry">Retry</string>
+</resources>

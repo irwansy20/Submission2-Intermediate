@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="salam">Hello, %1$s</string>
+
+    <string name="username">Nama pengguna</string>
+    <string name="desc">Deskripsi :</string>
+    <string name="desc_content">Deskripsi</string>
+
+    <string name="message_btn">Lanjut</string>
+    <string name="toast_error">Terjadi kesalahan, coba lagi nanti</string>
+
+    //register
+    <string name="question_login">Sudah punya akun ?</string>
+    <string name="toast_regist">Email sudah terpakai</string>
+    <string name="message_regist">Akunnya sudah jadi nih, bisa login sekarang.</string>
+
+    //login
+    <string name="greet_welcome">Selamat datang pengguna</string>
+    <string name="question_signup">Belum punya akun ?</string>
+    <string name="message_login">Selamat menggunakan.</string>
+    <string name="toast_not">Akun tidak di temukan</string>
+
+    //custom_email
+    <string name="message_mail">Masukkan email yang valid</string>
+
+    //custom_pass
+    <string name="message_pass">Password minimal 6 karakter</string>
+
+    //button
+    <string name="sign_up">Daftar</string>
+    <string name="log_in">Masuk</string>
+    <string name="check_login">Biarkan Saya masuk</string>
+    <string name="exit">Keluar aplikasi</string>
+    <string name="language">Ganti bahasa</string>
+
+    <string name="sample_list">Sample list</string>
+    <string name="sample_regist">Sample regist</string>
+    <string name="sample_login">Sample login</string>
+    <string name="sample_add">Sample add</string>
+    <string name="sample_detail">Sample detail</string>
+    <string name="cam">Kamera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Unggah</string>
+    <string name="permission">Tidak mendapatkan permission.</string>
+    <string name="choose">Pilih Gambar</string>
+    <string name="validUpl">Stories berhasil di unggah</string>
+    <string name="inputImg">Silahkan masukkan gambar.</string>
+    <string name="inputDesc">Silahkan masukkan deskripsi.</string>
+    <string name="failUpl">Gagal Unggah</string>
+    <string name="dialEx">Apakah kamu ingin keluar aplikasi ?</string>
+    <string name="respY">Ya</string>
+    <string name="respT">Tidak</string>
+    <string name="maps">Pengguna sekitar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="style">Gagal menerapkan style</string>
+    <string name="error_style">Tidak menemukan style, Error:  </string>
+    <string name="timeout">Timeout</string>
+    <string name="retry">Coba lagi</string>
+</resources>
